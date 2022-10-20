@@ -22,6 +22,7 @@
 ```
 npm install axios
 ```
+    - Make sure to add "type" : "module" in package.json if errors pop up
 
 3. Run the App
     - In /src/main/resources/application.properties update the username and password to what you set when installing MySQL
