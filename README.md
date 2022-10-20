@@ -16,7 +16,7 @@
     - Settings:
         - Maven Project
         - Spring Boot v2.7.5
-        - War Packeging 
+        - War Packaging 
         - Java 8 
     - Dependencies
         - Spring Web
