@@ -29,7 +29,7 @@
 
 3.  script dependacy in /PopulateTool
 ```
-npm install
+npm ci
 ```
 
 
